@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.jsp.constructor.Briyani&apos; to &apos;Mainclass1&apos;&#x0D;&#x0A;- Original project: &apos;oops&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.constructor.Briyani&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jsp.constructor.Mainclass1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Briyani&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.jsp.constructor{Briyani.java[Briyani" matchStrategy="1" name="Mainclass1" qualified="false" references="true" similarDeclarations="false" stamp="1750010893413" textual="false" version="1.0"/>
+</session>
